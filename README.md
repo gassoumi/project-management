@@ -1,4 +1,4 @@
-# Python: Getting Started
+# Python: Project management backend
 
 Demo https://obscure-reef-91996.herokuapp.com/
 
