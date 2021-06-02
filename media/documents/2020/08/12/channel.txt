@@ -1,0 +1,6 @@
+https://shls-mbc2-prod.shahid.net/mbc2-prod_3.m3u8
+https://shls-mbcaction-prod.shahid.net/mbcaction-prod_1.m3u8
+https://shls-mbcmax-prod.shahid.net/mbcmax-prod_1.m3u8
+https://shls-mbcbollywood-prod.shahid.net/mbcbollywood-prod_1.m3u8
+https://shls-mbc3-prod.shahid.net/mbc3-prod_1.m3u8
+https://shls-spacetoon-next.shahid.net/spacetoon-nextologies_1.m3u8
