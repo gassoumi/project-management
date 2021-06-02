@@ -1,6 +1,6 @@
 # Python: Getting Started
 
-demo https://obscure-reef-91996.herokuapp.com/
+Demo https://obscure-reef-91996.herokuapp.com/
 
 A barebones Django app, which can easily be deployed to Heroku.
 
